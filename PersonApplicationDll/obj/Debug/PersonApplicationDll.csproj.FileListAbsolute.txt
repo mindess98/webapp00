@@ -1,0 +1,5 @@
+E:\Csharp\Projects\PersonApplication\PersonApplicationDll\bin\Debug\PersonApplicationDll.dll
+E:\Csharp\Projects\PersonApplication\PersonApplicationDll\bin\Debug\PersonApplicationDll.pdb
+E:\Csharp\Projects\PersonApplication\PersonApplicationDll\obj\Debug\PersonApplicationDll.dll
+E:\Csharp\Projects\PersonApplication\PersonApplicationDll\obj\Debug\PersonApplicationDll.pdb
+E:\Csharp\Projects\PersonApplication\PersonApplicationDll\obj\Debug\PersonApplicationDll.csprojResolveAssemblyReference.cache

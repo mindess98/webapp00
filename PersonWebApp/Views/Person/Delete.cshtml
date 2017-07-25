@@ -1,0 +1,18 @@
+﻿@using PersonApplicationDll.Entities
+@model Person
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h4>delete @Model.Name</h4>
+
+<form action="/Person/Delete" method="post">
+    <input type="submit" value="Yes" class="btn btn-danger" />
+    <input type="hidden" value="@Model.Id" name="id" />
+</form>
+
+<hr/>
+<a class="btn btn-default" href="/Person/Index">Go back</a>
+
